@@ -11,6 +11,7 @@ billiard==4.1.0
 bs4==0.0.1
 build==0.10.0
 CacheControl==0.13.1
+celery==5.3.4
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.2.0
